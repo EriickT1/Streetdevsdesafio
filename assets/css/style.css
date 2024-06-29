@@ -1,0 +1,31 @@
+body{
+    background-color:black;
+}
+.nav1{
+    
+    background-color: transparent;
+    /* top:0; 
+    position:fixed; */
+}
+
+.logo{
+    height:1.95rem;
+}
+.icons{
+    font-size:1.8rem;
+}
+.marginsections{
+    margin-top:10rem;
+}
+.cards{
+    height: 13rem;
+    width: 100%;
+
+}
+.marginh4{
+    margin-left:15rem;
+}
+.iconsfooter{
+    margin-left:30rem;
+}
+
